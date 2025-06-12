@@ -1,3 +1,11 @@
-.testclass {
-  color: darkblue;
+.sentence-starters-card {
+  background-color: #e9dcfc; /* indigo-100 */
+}
+
+.visuals-card {
+  background-color: #fceada; /* orange-100 */
+}
+
+.lang-support-card {
+  background-color: #d8f1d9; /* green-100 */
 }
